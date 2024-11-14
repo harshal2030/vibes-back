@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="splashscreen_bg">#A48AE6</color>
+    <color name="app_bg">#FFFFFF</color>
+    <color name="date_picker">#A48AE6</color>
+</resources>
